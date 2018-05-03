@@ -1,0 +1,7 @@
+Virtual User Script started at : 2018-05-03 12:50:04
+TruClient Replay for LoadRunner 12.55.0, build 0911. OS: Windows 2012 R2, Browser: Firefox, initialized on 2018/05/03 at 12:50:01 (0000.000s)
+Running Vuser...
+Starting iteration 1.
+Ending iteration 1.
+Ending Vuser...
+Vuser Terminated.
