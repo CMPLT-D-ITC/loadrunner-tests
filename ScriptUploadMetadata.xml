@@ -17,6 +17,7 @@
     <FileEntry Name="JS-functions.js" Filter="2" />
     <FileEntry Name="default.xml" Filter="2" />
     <FileEntry Name="ScriptVcsSettings.xml" Filter="2" />
+    <FileEntry Name="TruClientScriptMetadata.xml" Filter="2" />
     <FileEntry Name="TC.xsl" Filter="2" />
     <FileEntry Name="combined_LR_FUNCTIONAL.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
@@ -24,6 +25,7 @@
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="default.cfg.bak" Filter="1" />
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="LR_FUNCTIONAL.c.pickle" Filter="1" />
     <FileEntry Name="LR_FUNCTIONAL.ci" Filter="1" />
