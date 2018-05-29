@@ -135,7 +135,7 @@
 <Res><![CDATA[result1]]></Res>
 <Action rID="T2">
 <AName><![CDATA[Init]]></AName>
-<Summary sTime="5/3/2018 - 12:50:05" eTime="5/3/2018 - 12:50:05" passed="0" failed="0" warnings="0" ></Summary>
+<Summary sTime="5/29/2018 - 19:20:03" eTime="5/29/2018 - 19:20:03" passed="0" failed="0" warnings="0" ></Summary>
 <NodeArgs eType="StartAction" icon="2" nRep="5" >
 <Disp><![CDATA[Init Summary]]></Disp>
 </NodeArgs>
@@ -143,24 +143,33 @@
 <DIter rID="T3" iterID="1" >
 <Action rID="T4">
 <AName><![CDATA[Action]]></AName>
-<Summary sTime="5/3/2018 - 12:50:05" eTime="5/3/2018 - 12:50:05" passed="0" failed="0" warnings="0" ></Summary>
-<NodeArgs eType="StartAction" icon="2" nRep="8" >
+<Step rID="T5">
+<Obj plainTxt="False" ><![CDATA[Navigate]]></Obj>
+<Details plainTxt="False" ><![CDATA[1: Navigate to SyntaxError: Invalid or unexpected token was finished]]></Details>
+<Time><![CDATA[5/29/2018 - 19:20:06]]></Time>
+<TimeTick>1527607206</TimeTick>
+<NodeArgs eType="General" icon="0" nRep="9" status="Failed" >
+<Disp><![CDATA[Navigate]]></Disp>
+</NodeArgs>
+</Step>
+<Summary sTime="5/29/2018 - 19:20:05" eTime="5/29/2018 - 19:20:06" passed="0" failed="1" warnings="0" ></Summary>
+<NodeArgs eType="StartAction" icon="2" nRep="8" status="Failed" >
 <Disp><![CDATA[Action Summary]]></Disp>
 </NodeArgs>
 </Action>
-<NodeArgs eType="StartIteration" icon="3" nRep="7" >
+<NodeArgs eType="StartIteration" icon="3" nRep="7" status="Failed" >
 <Disp><![CDATA[LR_FUNCTIONAL Iteration 1 (Row 1)]]></Disp>
 </NodeArgs>
 </DIter>
-<Action rID="T5">
+<Action rID="T6">
 <AName><![CDATA[End]]></AName>
-<Summary sTime="5/3/2018 - 12:50:05" eTime="5/3/2018 - 12:50:05" passed="0" failed="0" warnings="0" ></Summary>
-<NodeArgs eType="StartAction" icon="2" nRep="11" >
+<Summary sTime="5/29/2018 - 19:20:06" eTime="5/29/2018 - 19:20:06" passed="0" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartAction" icon="2" nRep="12" >
 <Disp><![CDATA[End Summary]]></Disp>
 </NodeArgs>
 </Action>
-<Summary sTime="5/3/2018 - 12:50:01" eTime="5/3/2018 - 12:50:05" passed="0" failed="0" warnings="0" ></Summary>
-<NodeArgs eType="StartTest" icon="1" nRep="4" >
+<Summary sTime="5/29/2018 - 19:19:57" eTime="5/29/2018 - 19:20:06" passed="0" failed="1" warnings="0" ></Summary>
+<NodeArgs eType="StartTest" icon="1" nRep="4" status="Failed" >
 <Disp><![CDATA[Test LR_FUNCTIONAL Summary]]></Disp>
 </NodeArgs>
 </Doc>

@@ -1,7 +1,10 @@
-Virtual User Script started at : 2018-05-03 12:50:04
-TruClient Replay for LoadRunner 12.55.0, build 0911. OS: Windows 2012 R2, Browser: Firefox, initialized on 2018/05/03 at 12:50:01 (0000.000s)
+Virtual User Script started at : 2018-05-29 19:20:02
+TruClient Replay for LoadRunner 12.55.0, build 0911. OS: Windows 2012 R2, Browser: Chromium, initialized on 2018/05/29 at 19:19:57 (0000.000s)
 Running Vuser...
 Starting iteration 1.
+t=00007975ms: ** 1: Navigate to "http://google.comZ\XZ\XZ\XZ\Z\" ** started    [MsgId: MMSG-205180]
+t=00008607ms: Error -205177: ** 1: Navigate to SyntaxError: Invalid or unexpected token ** failed - an argument is invalid:
+	'Location': JavaScript exception 'SyntaxError: Invalid or unexpected token' during evaluation       Snapshot Info [MSH 1 0]    [MsgId: MERR-205177]
 Ending iteration 1.
 Ending Vuser...
 Vuser Terminated.
